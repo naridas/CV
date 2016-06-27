@@ -41,6 +41,8 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 - Extreme Programming
 - Working Remotely
 - Agile Practices
+- Main Technologies: Ruby/Ruby on rails, Javascript, HTML, jQuery, Angular, CSS
+- Testing Frameworks: Rspec, Jasmine, Karma, Protractor
 
 #### University of Greenwich (2011 to 2014)
 
