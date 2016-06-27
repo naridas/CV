@@ -5,6 +5,14 @@
 
 Aspiring software craftsman who was a former Marine Engineer graduate. Recently completed Maker's Academy boot-camp course for Web Developers in order to start a new career due to wanting to work in an ever changing industry. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
+### <a name="code">Code Examples</a>
+
+| Project Name        | Description         | Technologies        |
+|-------------------------|-------------------------|-------------------------|
+| [Memeories](https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
+| [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
+| [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
+
 ## <a name="skills">Skills</a>
 
 #### Practical
@@ -21,14 +29,6 @@ Learning in Maker's Academy constantly puts pressure on me to learn new skills q
 #### Communication
 
 Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pairing with everyone in my cohort and group projects.  I believe this is due to my ability to adapt to variety of social situations and also encourage a good working environment.
-
-### <a name="code">Code Examples</a>
-
-| Project Name        | Description         | Technologies        |
-|-------------------------|-------------------------|-------------------------|
-| [Memeories](https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
-| [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
-| [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
 ## <a name="Education">Education</a>
 
