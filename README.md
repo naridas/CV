@@ -52,3 +52,7 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 *Logistics & 1st line Support*  
 **M2 Tech** (2011 to 2014)   
 *Assistant Telecom Planner*  
+
+## Contact
+- Email: gregsparta@gmail.com
+- LinkedIn: https://www.linkedin.com/in/greggero
