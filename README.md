@@ -1,6 +1,6 @@
 ## Grigorios Gerogiokas
 
-[Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
+[Skills](#Skills) | [Education](#Education) | [Code Examples](#Code Examples) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 Aspiring software craftsman who was a former Marine Engineering graduate. Recently completed Maker's Academy course for Web Developers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
@@ -21,7 +21,8 @@ Learning in Maker's Academy constantly puts pressure on me to learn new skills q
 
 Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pairing with everyone in my cohort and group projects.  I believe this is due to my ability to adapt to variety of social situations and also encourage a good working environment.
 
-### Code Examples
+### <a name="code examples">Code Examples</a>
+
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
 | [Memeories](https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
