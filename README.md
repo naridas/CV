@@ -28,7 +28,7 @@ Learning in Maker's Academy constantly puts pressure on me to learn new skills q
 
 #### Communication
 
-Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pairing with everyone in my cohort and working in group projects.  I believe this is due to my ability to adapt to variety of social situations and also encourage a good working environment.
+Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pairing with everyone in my cohort and working in group projects.  I believe this is partially due to my ability to adapt to variety of social situations and also encourage a good working environment.
 
 ## <a name="Education">Education</a>
 
