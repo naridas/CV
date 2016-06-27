@@ -1,8 +1,10 @@
 ## Grigorios Gerogiokas
 
+[Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
+
 Aspiring software craftsman who was a former Marine Engineering graduate. Recently completed Maker's Academy course for Web Developers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Practical
 
@@ -26,7 +28,7 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 | [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
 | [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (April 2016 to June 2016)
 
@@ -43,6 +45,11 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 - Marine Engineering Technology
 - 2:1 BEng
 - 81% on Final Year Project
+ 
+## <a name="Hobbies">Hobbies and interests</a>
+
+- Assembling Computers for friends and family and giving tech advice
+- Play variety of board games from resource managment (Power Grid) to bluffing & deduction (The Resistance: Avalon)
 
 ## Experience
 
