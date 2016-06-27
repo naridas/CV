@@ -23,7 +23,7 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
 | [Memeories]https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
-| [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows large complicated projects to be managed and controlled by the members themselves in order to reduce bureaucracy through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
+| [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
 | [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
 ## Education
