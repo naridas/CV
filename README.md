@@ -25,6 +25,7 @@ Learning in Maker's Academy constantly puts pressure on me to learn new skills q
 
 - Created multiple repos in various languages during the course
 - Able to create Memeories with a variety of new APIs (https://github.com/naridas/Memeories) within 1 week
+- Learnt to build yelp-clone with ruby on rails in 1 week
 
 #### Communication
 
