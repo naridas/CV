@@ -51,4 +51,4 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 **ARX Ltd** (2015)    
 *Logistics & 1st line Support*  
 **M2 Tech** (2011 to 2014)   
-*Assistant Telecom Plannere*  
+*Assistant Telecom Planner*  
