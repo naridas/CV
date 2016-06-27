@@ -2,7 +2,8 @@
 
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
-Aspiring software craftsman who was a former Marine Engineering graduate. Recently completed Maker's Academy course for Web Developers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
+
+Aspiring software craftsman who was a former Marine Engineer graduate. Recently completed Maker's Academy boot-camp course for Web Developers in order to start a new career due to wanting to work in a ever changing industry. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
 ## <a name="skills">Skills</a>
 
