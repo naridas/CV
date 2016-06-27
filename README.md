@@ -3,7 +3,7 @@
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 
-Aspiring software engineer who was a former Marine Engineer graduate. Recently completed Maker's Academy boot-camp course for Web Developers in order to start a new career due to wanting to work in an ever changing industry. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
+Aspiring software engineer who was a former Marine Engineer graduate. Recently completed Maker's Academy boot-camp course for Web Developers in order to start a new career due to wanting to work in an ever changing industry and my enjoyment from building computers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
 ### Code Examples
 
@@ -17,7 +17,7 @@ Aspiring software engineer who was a former Marine Engineer graduate. Recently c
 
 #### Practical
 
-Coming from an Engineering background, I have a very methodological mindset therefore I first visualise, then see what is needed to create the MVP of that image.  For example in the Final Project (Doocracy), my group discussed using Angular with Ruby on Rails which I stated the pros and cons of using it, then pushed forward for using jQuery instead for our MVP since it is easier to implment, therefore making our MVP feasible within our timeframe.
+Coming from an Engineering background, I have a methodological mindset therefore think what do I want the code to do, afterwards what do I need to do to get the MVP.  For example in the Final Project (Doocracy), my group discussed using Angular with Ruby on Rails which I suggested using jQuery instead for our MVP since it is easier to implement. Since we are more knowledgable regarding it, but also a variety of teams had problems combining them previously therefore personally preferred we had something that worked for our MVP then later on implement Angular.
 
 #### Fast Learner
 
@@ -29,7 +29,11 @@ Learning in Maker's Academy constantly challenged me to learn new skills quickly
 
 #### Communication
 
-Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pairing with everyone in my cohort and working in group projects.  I believe this is partially due to my ability to adapt to variety of social situations and also encourage a good working environment.
+Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pair programming everyday with my cohort and working in group projects.  I believe this is partially due to my ability to adapt to variety of social situations and also encourage a good working environment.
+
+#### Assistant Telecom Planner
+
+Worked together with a Senior Engineer in designing Line of Sight between Base Stations using EE telecom tools & Google Earth. Did data entry related to mobile networks. Involved in database analysis for mobile network and manipulated data to see trends as well as the progress of the expansion & migration of the network. The surveyed hubs deliver Virgin Media or BT connectivity to T-Mobile, Orange and 3 mobile networks. Status could be seen using telecom tools.
 
 ## <a name="Education">Education</a>
 
