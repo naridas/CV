@@ -1,6 +1,6 @@
 ## Grigorios Gerogiokas
 
-[Skills](#Skills) | [Education](#Education) | [Code Examples](#Code Examples) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
+[Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 Aspiring software craftsman who was a former Marine Engineering graduate. Recently completed Maker's Academy course for Web Developers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
