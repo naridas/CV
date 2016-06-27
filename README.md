@@ -21,9 +21,9 @@ Coming from an Engineering background, I have a very methodological mindset ther
 
 #### Fast Learner
 
-Learning in Maker's Academy constantly puts pressure on me to learn new skills quickly since they introduce something newto learn each week.
+Learning in Maker's Academy constantly challenged me to learn new skills quickly since they introduce something new to learn each week.
 
-- Created multiple repos in various languages during the course
+- Created multiple repos with Angular, Javascript, jQuery, Ruby on Rails during the course
 - Able to create Memeories with a variety of new APIs (https://github.com/naridas/Memeories) within 1 week
 - Learnt to build yelp-clone with ruby on rails in 1 week
 
