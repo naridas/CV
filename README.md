@@ -1,48 +1,54 @@
-## Your Name
+## Grigorios Gerogiokas
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Aspiring software craftsman who was a former Marine Engineering graduate. Recently completed Maker's Academy course for Web Developers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
 ## Skills
 
-#### This Skill
+#### Practical
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Coming from an Engineering background, I have a very methodological mindset therefore I first visualise, then see what is needed to create the MVP of that image.  For example in the Final Project (Doocracy), my group discussed using Angular with Ruby on Rails which I stated the pros and cons of using it, then pushed forward for using jQuery instead for our MVP since it is easier to implment, therefore making our MVP feasible within our timeframe.
 
-- Experience
-- Achievements
-- Evidence
+#### Fast Learner
 
-#### Another Skill
+Learning in Maker's Academy constantly puts pressure on me to learn new skills quickly since they introduce something newto learn each week.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Created multiple repos in various languages during the course
+- Able to create Memeories with a variety of new APIs (https://github.com/naridas/Memeories) within 1 week
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Communication
+
+Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pairing with everyone in my cohort and group projects.  I believe this is due to my ability to adapt to variety of social situations and also encourage a good working environment.
+
+### Code Examples
+| Project Name        | Description         | Technologies        |
+|-------------------------|-------------------------|-------------------------|
+| [Memeories]https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
+| [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows large complicated projects to be managed and controlled by the members themselves in order to reduce bureaucracy through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
+| [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2016 to June 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Extreme Programming
+- Working Remotely
+- Agile Practices
 
-#### Your University / College (start_date to end_date)
+#### University of Greenwich (2011 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Marine Engineering Technology
+- 2:1 BEng
+- 81% on Final Year Project
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**ARX Ltd** (2015)    
+*Logistics & 1st line Support*  
+**M2 Tech** (2011 to 2014)   
+*Assistant Telecom Plannere*  
