@@ -44,8 +44,6 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 - 2:1 BEng
 - 81% on Final Year Project
 
-#### Any other qualifications
-
 ## Experience
 
 **ARX Ltd** (2015)    
