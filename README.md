@@ -61,5 +61,4 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 *Assistant Telecom Planner*  
 
 ## Contact
-- Email: gregsparta@gmail.com
 - LinkedIn: https://www.linkedin.com/in/greggero
