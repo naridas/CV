@@ -1,4 +1,4 @@
-## Grigorios Gerogiokas
+## Grigorios "Greg" Gerogiokas
 
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
