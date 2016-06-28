@@ -3,7 +3,7 @@
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 
-Aspiring software engineer who was a former Marine Engineer graduate. Recently completed Maker's Academy boot-camp course for Web Developers in order to start a new career due to wanting to work in an ever changing industry and my enjoyment from building computers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
+Aspiring software engineer who was a former Marine Engineer graduate and used to work as Assistant Telecom Planner. Recently completed Maker's Academy boot-camp course for Web Developers in order to start a new career due to wanting to work in an ever changing industry and my enjoyment from working with computers. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
 
 ### Code Examples
 
