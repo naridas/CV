@@ -17,7 +17,7 @@ Aspiring software engineer who was a former Marine Engineer graduate and used to
 
 #### Practical
 
-Coming from an Engineering background, I have a practical mindset therefore think what is necessary/feasible to get the MVP with my current skills/timeframe.  For example in the Final Project (Doocracy), my group discussed using Angular with Ruby on Rails which we researched. From the research I concluded it was unnecessary for our MVP so I suggested using jQuery instead for our MVP since it does the things we need for our MVP but in a simpler manner.
+I have developed a practical mindset all thanks to my background in engineering which allows me to think what is necessary/feasible to get the MVP with my current skills given a timeframe.  For my Final Group Project (Doocracy), we discussed using Angular with Ruby on Rails. We researched on how to implement it, from that research I concluded it was unnecessary for our MVP so I suggested using jQuery instead for our MVP since it does the things we need for our MVP but in a simpler manner.
 
 #### Fast Learner
 
