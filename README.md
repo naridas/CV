@@ -17,7 +17,7 @@ Aspiring software engineer who was a former Marine Engineer graduate. Recently c
 
 #### Practical
 
-Coming from an Engineering background, I have a methodological mindset therefore think what do I want the code to do, afterwards what do I need to do to get the MVP.  For example in the Final Project (Doocracy), my group discussed using Angular with Ruby on Rails which I suggested using jQuery instead for our MVP since it is easier to implement. Since we are more knowledgable regarding it, but also a variety of teams had problems combining them previously therefore personally preferred we had something that worked for our MVP then later on implement Angular.
+Coming from an Engineering background, I have a practical mindset therefore think what is necessary/feasible to get the MVP with my current skills/timeframe.  For example in the Final Project (Doocracy), my group discussed using Angular with Ruby on Rails which we researched. From the research I concluded it was unnecessary for our MVP so I suggested using jQuery instead for our MVP since it does the things we need for our MVP but in a simpler manner.
 
 #### Fast Learner
 
