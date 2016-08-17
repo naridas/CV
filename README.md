@@ -66,6 +66,3 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 *Logistics & 1st line Support*  
 **M2 Tech** (2011 to 2014)   
 *Assistant Telecom Planner*  
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/greggero
