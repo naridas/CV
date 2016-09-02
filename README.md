@@ -10,7 +10,7 @@ Aspiring Software Engineer who was a former Marine Engineer graduate and used to
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
 | [Memeories](https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
-| [Doocracy(Final Project)](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
+| [Doocracy](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
 | [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
 ## <a name="skills">Skills</a>
