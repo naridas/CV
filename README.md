@@ -3,7 +3,7 @@
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 
-Aspiring Software Engineer who was a former Marine Engineer graduate and used to work as Assistant Telecom Planner at M2 Tech.  My experience working in M2 Tech with Big Data and Data analysis, has fueled my interest in software engineering.  Therefore encouraged me to start & complete Maker's Academy boot-camp course for Web Developers in order to start a new career in an ever changing industry. Looking for a role as a junior developer with good working environment whilst learning new skills like Java to further develop my career.
+I am an aspiring software engineer, former Marine Engineer graduate, and used to work as an Assistant Telecom Planner at M2 Tech. My experience working in M2 Tech with Big Data and Data analysis has fuelled my interest in software engineering.  This encouraged me to start & complete the Maker's Academy boot-camp course for Web Developers in order to start a new career in an ever changing industry. I am looking for a role as a junior/graduate developer with good working environment whilst learning new skills to further develop my career.
 
 ### Code Examples
 
@@ -37,7 +37,7 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 
 ## <a name="Education">Education</a>
 
-#### Makers Academy (April 2016 to June 2016)
+#### Makers Academy 2016
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
