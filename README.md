@@ -9,19 +9,19 @@ I am an aspiring software engineer, former Marine Engineer graduate, and used to
 
 | Project Name        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
-| [Memeories](https://github.com/naridas/Memeories)| A Memegen which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
+| [Memeories](https://github.com/naridas/Memeories)| A Meme generator which can post to slack | Ruby on Rails, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Cloudinary, Slack webhooks, Getty  |
 | [Doocracy](https://github.com/naridas/doocracy) | This web application allows projects to be managed by the members themselves through an open source approach.                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Javascript, jQuery, Google Maps API                    |
-| [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
+| [arrrgBnB](https://github.com/naridas/arrrgbnb)               | An MVP (Minimum Viable Product) version of Air BnB                                                         | Ruby, Sinatra, Rspec, Capybara, PostgreSQL               |
 
 ## <a name="skills">Skills</a>
 
 #### Practical
 
-I have developed a practical mindset all thanks to my background in engineering which allows me to think what is necessary/feasible to get the MVP with my current skills given a timeframe.  For my Final Group Project (Doocracy), we discussed using Angular with Ruby on Rails. We researched on how to implement it, from that research I concluded it was unnecessary for our MVP so I suggested using jQuery instead for our MVP since it does the things we need for our MVP but in a simpler manner.
+I have developed a practical mindset during my engineering studies allowing me to obtain the MVP in a given timeframe. For instance in the project Doocracy initially Angular with ruby on rails was discussed but I convinced that the simpler and clear jQuery was more appropriate for our MVP
 
 #### Fast Learner
 
-Learning in Maker's Academy constantly challenged me to learn new skills quickly since they introduce something new to learn each week.
+In Maker's Academy, I was challenged to learn new skills each week.  In the end I had learned and accumulated numerous skills and techniques in software development.
 
 - Created multiple repos with Angular, Javascript, jQuery, Ruby on Rails during the course
 - Able to create Memeories with a variety of new APIs (https://github.com/naridas/Memeories) within 1 week
@@ -29,7 +29,7 @@ Learning in Maker's Academy constantly challenged me to learn new skills quickly
 
 #### Communication
 
-Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. Throughout the course I enjoyed pair programming everyday with my cohort and working in group projects.  I believe this is partially due to my ability to adapt to variety of social situations and also encourage a good working environment.
+Having lived in the US, Greece and now the UK has given a breadth of experience with a variety of people, and cultures. I excel and enjoy pair programming.  I am able to present and express ideas clearly.
 
 #### Assistant Telecom Planner
 
@@ -48,6 +48,10 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 - Agile Practices
 - Main Technologies: Ruby/Ruby on rails, Javascript, HTML, jQuery, Angular, CSS
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor
+
+### Programming Languages/Game engines
+-	Ruby, Java, Python, Javascript, C#
+-	Game Engine: Unity 
 
 #### University of Greenwich (2011 to 2014)
 
