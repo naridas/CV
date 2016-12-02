@@ -66,7 +66,12 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 
 ## <a name="Experience">Experience</a>
 
+**Red56** (2016)    
+*Web Developer*
+- Did work experience at Red56, paired to make a couple of features for their market research app
+
 **ARX Ltd** (2015)    
-*Logistics & 1st line Support*  
+*Logistics & 1st line Support*
+
 **M2 Tech** (2011 to 2014)   
 *Assistant Telecom Planner*  
