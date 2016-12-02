@@ -68,7 +68,7 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 
 **Red56** (2016)    
 *Web Developer*
-- Did work experience at Red56, paired to make a couple of features for their market research app
+- Did work experience at Red56, paired to make features for their market research app
 
 **ARX Ltd** (2015)    
 *Logistics & 1st line Support*
