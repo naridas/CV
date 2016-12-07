@@ -3,7 +3,7 @@
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 
-I am an aspiring software engineer, former Marine Engineer graduate, and used to work as an Assistant Telecom Planner at M2 Tech. My experience working in M2 Tech with Big Data and Data analysis has fuelled my interest in software engineering.  This encouraged me to start & complete the Maker's Academy boot-camp course for Web Developers in order to start a new career in an ever changing industry. I am looking for a role as a junior/graduate developer with good working environment whilst learning new skills to further develop my career.
+I am a full-stack software engineer, former Marine Engineer graduate, and used to work as an Assistant Telecom Planner at M2 Tech. My experience working in M2 Tech with Big Data and Data analysis has fuelled my interest in software engineering.  This encouraged me to start and complete the Maker's Academy boot-camp course for Web Developers in order to start a new career in an ever changing industry. I am looking for a role as a junior/graduate developer with good working environment whilst learning new skills to further develop my career.
 
 ### Code Examples
 
@@ -33,9 +33,15 @@ Having lived in the US, Greece and now the UK has given a breadth of experience 
 
 #### Assistant Telecom Planner
 
-Worked together with a Senior Engineer in designing Line of Sight between Base Stations using EE telecom tools & Google Earth. Did data entry related to mobile networks. Involved in database analysis for mobile network and manipulated data to see trends as well as the progress of the expansion & migration of the network. The surveyed hubs deliver Virgin Media or BT connectivity to T-Mobile, Orange and 3 mobile networks. Status could be seen using telecom tools.
+Worked together with a Senior Engineer in designing Line of Sight between Base Stations using EE telecom tools and Google Earth. Did data entry related to mobile networks. Involved in database analysis for mobile network and manipulated data to see trends as well as the progress of the expansion & migration of the network. The surveyed hubs deliver Virgin Media or BT connectivity to T-Mobile, Orange and 3 mobile networks. Status could be seen using telecom tools.
 
 ## <a name="Education">Education</a>
+
+### Programming Languages/Game engines
+- Currently doing a course on Udemy regarding C# & Unity
+- Have done simple tutorials regarding Tensor Flow, React, Angularjs and Vue.js
+-	Ruby, Java, Python, Javascript, C# 
+-	Game Engine: Unity
 
 #### Makers Academy 2016
 
@@ -49,15 +55,13 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 - Main Technologies: Ruby/Ruby on rails, Javascript, HTML, jQuery, Angular, CSS
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor
 
-### Programming Languages/Game engines
--	Ruby, Java, Python, Javascript, C#
--	Game Engine: Unity 
-
 #### University of Greenwich (2011 to 2014)
 
-- Marine Engineering Technology
+- Marine Engineering Technology 
+- combination of Mechanical & Wlectrical engineer
 - 2:1 BEng
-- 81% on Final Year Project
+- Did Matlab and CAD: Solidworks AutoCAD
+- 81% on Final Year Project: Using Matlab to help test with Super Hydrophobic coating on a ship model
  
 ## <a name="Hobbies">Hobbies and interests</a>
 
@@ -68,7 +72,7 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 
 **Red56** (2016)    
 *Web Developer*
-- Did work experience at Red56, paired to make features for their market research app
+- Did work experience at Red56 (small web app company), paired to make features for their market research app
 
 **ARX Ltd** (2015)    
 *Logistics & 1st line Support*
