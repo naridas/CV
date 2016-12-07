@@ -58,8 +58,8 @@ Worked together with a Senior Engineer in designing Line of Sight between Base S
 #### University of Greenwich (2011 to 2014)
 
 - Marine Engineering Technology 
-- combination of Mechanical & Wlectrical engineer
 - 2:1 BEng
+- Combination of Mechanical & Electrical engineering 
 - Did Matlab and CAD: Solidworks AutoCAD
 - 81% on Final Year Project: Using Matlab to help test with Super Hydrophobic coating on a ship model
  
